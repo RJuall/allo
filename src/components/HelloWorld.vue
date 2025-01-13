@@ -18,7 +18,7 @@ const count = ref(0)
       <code>components/HelloWorld.vue</code> to test HMR
     </p>
   </div>
-
+  <p><VIcon icon="mdi-heart" /> Al Lo is the Best! <VIcon icon="mdi-heart" /></p>
   <p>
     Check out
     <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank"
